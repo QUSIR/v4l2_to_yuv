@@ -1,6 +1,6 @@
 # Also update in v4l2.sgml!
 main:
-	gcc capture.c -o capture
+	gcc new.c -o capture
 clean:
 	rm -f capture
 
