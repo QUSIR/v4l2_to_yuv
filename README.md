@@ -9,5 +9,8 @@ new.c为修改后程序  运行后将视频数据保存为yuv文件
 
 ![yuv](http://i.imgur.com/L3dEAX3.png)
 
-![yuvplay.png](yuvplay.png)
+![yuvplay](yuvplay.png)
 
+使用YUVviewerPlus.exe播放
+
+![yuvview](yuvview.png)
